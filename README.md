@@ -31,21 +31,26 @@ The program can calculate tax and the total cost for a given ticket price using 
 
 Example:
 
-java
-Copy code
+```
 TicketPrice.ticketPrice();
-Getting Started
-Clone the repository:
+```
+
+## Getting Started
+
+1. Clone the repository:
 
 ```
 git clone https://github.com/your-username/MovieTicketManager.git
-Compile the Java files:
 ```
+
+2. Compile the Java files:
+
 
 ```
 javac MovieTicket.java MovieTicketTestHarness.java TicketPrice.java
-Run the program:
 ```
+
+3. Run the program:
 
 ```
 java MovieTicketTestHarness
